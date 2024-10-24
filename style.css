@@ -1,0 +1,32 @@
+/* BELANGRIJK: Organiseer je CSS-file, liefst met comments. Verdeel je code bijvoorbeeld in per oefening (zie hieronder)
+
+/* OEFENING 1: SCHOOL */
+
+img#logo {
+    width: 200px;
+}
+
+/* OEFENING 2: OPMAAKTAGS */
+
+mark#A {
+    background-color: 	#FFC0CB;
+}
+
+mark#B {
+    background-color: #A2C2E1;
+}
+
+mark#C {
+    background-color: #B2E0B2;
+}
+
+mark#D {
+    background-color: #FFF6A6;
+}
+
+/* OEFENING 3: WEBSHOP */
+
+img#camera {
+    width: 200px;
+    display: block;
+}
