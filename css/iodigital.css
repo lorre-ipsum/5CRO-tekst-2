@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "TT Commons";
+    src: 
+        local("TT Commons"),
+        url("./../fonts/TTCommons-Medium.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+* {
+    font-family: "TT Commons"
+}
